@@ -1,0 +1,343 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\Downloads\\Compressed\\Tutoring Management System-2024\\Tutoring Management System- 2024\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD5FFA51-27EF-4B14-9309-C4F69D4E257A}|Transparent Form\\Student Management System.csproj|c:\\users\\lenovo\\downloads\\compressed\\tutoring management system-2024\\tutoring management system- 2024\\transparent form\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AD5FFA51-27EF-4B14-9309-C4F69D4E257A}|Transparent Form\\Student Management System.csproj|solutionrelative:transparent form\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD5FFA51-27EF-4B14-9309-C4F69D4E257A}|Transparent Form\\Student Management System.csproj|C:\\Users\\LENOVO\\Downloads\\Compressed\\Tutoring Management System-2024\\Tutoring Management System- 2024\\transparent form\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AD5FFA51-27EF-4B14-9309-C4F69D4E257A}|Transparent Form\\Student Management System.csproj|solutionrelative:transparent form\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD5FFA51-27EF-4B14-9309-C4F69D4E257A}|Transparent Form\\Student Management System.csproj|C:\\Users\\LENOVO\\Downloads\\Compressed\\Tutoring Management System-2024\\Tutoring Management System- 2024\\transparent form\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD5FFA51-27EF-4B14-9309-C4F69D4E257A}|Transparent Form\\Student Management System.csproj|solutionrelative:transparent form\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD5FFA51-27EF-4B14-9309-C4F69D4E257A}|Transparent Form\\Student Management System.csproj|C:\\Users\\LENOVO\\Downloads\\Compressed\\Tutoring Management System-2024\\Tutoring Management System- 2024\\transparent form\\splashform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AD5FFA51-27EF-4B14-9309-C4F69D4E257A}|Transparent Form\\Student Management System.csproj|solutionrelative:transparent form\\splashform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD5FFA51-27EF-4B14-9309-C4F69D4E257A}|Transparent Form\\Student Management System.csproj|C:\\Users\\LENOVO\\Downloads\\Compressed\\Tutoring Management System-2024\\Tutoring Management System- 2024\\transparent form\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AD5FFA51-27EF-4B14-9309-C4F69D4E257A}|Transparent Form\\Student Management System.csproj|solutionrelative:transparent form\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD5FFA51-27EF-4B14-9309-C4F69D4E257A}|Transparent Form\\Student Management System.csproj|C:\\Users\\LENOVO\\Downloads\\Compressed\\Tutoring Management System-2024\\Tutoring Management System- 2024\\transparent form\\scoreform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AD5FFA51-27EF-4B14-9309-C4F69D4E257A}|Transparent Form\\Student Management System.csproj|solutionrelative:transparent form\\scoreform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD5FFA51-27EF-4B14-9309-C4F69D4E257A}|Transparent Form\\Student Management System.csproj|C:\\Users\\LENOVO\\Downloads\\Compressed\\Tutoring Management System-2024\\Tutoring Management System- 2024\\transparent form\\managestudentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AD5FFA51-27EF-4B14-9309-C4F69D4E257A}|Transparent Form\\Student Management System.csproj|solutionrelative:transparent form\\managestudentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD5FFA51-27EF-4B14-9309-C4F69D4E257A}|Transparent Form\\Student Management System.csproj|C:\\Users\\LENOVO\\Downloads\\Compressed\\Tutoring Management System-2024\\Tutoring Management System- 2024\\transparent form\\printcourseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AD5FFA51-27EF-4B14-9309-C4F69D4E257A}|Transparent Form\\Student Management System.csproj|solutionrelative:transparent form\\printcourseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD5FFA51-27EF-4B14-9309-C4F69D4E257A}|Transparent Form\\Student Management System.csproj|C:\\Users\\LENOVO\\Downloads\\Compressed\\Tutoring Management System-2024\\Tutoring Management System- 2024\\transparent form\\printscoreform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AD5FFA51-27EF-4B14-9309-C4F69D4E257A}|Transparent Form\\Student Management System.csproj|solutionrelative:transparent form\\printscoreform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD5FFA51-27EF-4B14-9309-C4F69D4E257A}|Transparent Form\\Student Management System.csproj|C:\\Users\\LENOVO\\Downloads\\Compressed\\Tutoring Management System-2024\\Tutoring Management System- 2024\\transparent form\\printstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AD5FFA51-27EF-4B14-9309-C4F69D4E257A}|Transparent Form\\Student Management System.csproj|solutionrelative:transparent form\\printstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD5FFA51-27EF-4B14-9309-C4F69D4E257A}|Transparent Form\\Student Management System.csproj|C:\\Users\\LENOVO\\Downloads\\Compressed\\Tutoring Management System-2024\\Tutoring Management System- 2024\\transparent form\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD5FFA51-27EF-4B14-9309-C4F69D4E257A}|Transparent Form\\Student Management System.csproj|solutionrelative:transparent form\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD5FFA51-27EF-4B14-9309-C4F69D4E257A}|Transparent Form\\Student Management System.csproj|C:\\Users\\LENOVO\\Downloads\\Compressed\\Tutoring Management System-2024\\Tutoring Management System- 2024\\transparent form\\printstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD5FFA51-27EF-4B14-9309-C4F69D4E257A}|Transparent Form\\Student Management System.csproj|solutionrelative:transparent form\\printstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD5FFA51-27EF-4B14-9309-C4F69D4E257A}|Transparent Form\\Student Management System.csproj|C:\\Users\\LENOVO\\Downloads\\Compressed\\Tutoring Management System-2024\\Tutoring Management System- 2024\\transparent form\\managescoreform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AD5FFA51-27EF-4B14-9309-C4F69D4E257A}|Transparent Form\\Student Management System.csproj|solutionrelative:transparent form\\managescoreform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD5FFA51-27EF-4B14-9309-C4F69D4E257A}|Transparent Form\\Student Management System.csproj|C:\\Users\\LENOVO\\Downloads\\Compressed\\Tutoring Management System-2024\\Tutoring Management System- 2024\\transparent form\\managecourseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AD5FFA51-27EF-4B14-9309-C4F69D4E257A}|Transparent Form\\Student Management System.csproj|solutionrelative:transparent form\\managecourseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD5FFA51-27EF-4B14-9309-C4F69D4E257A}|Transparent Form\\Student Management System.csproj|C:\\Users\\LENOVO\\Downloads\\Compressed\\Tutoring Management System-2024\\Tutoring Management System- 2024\\transparent form\\courseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AD5FFA51-27EF-4B14-9309-C4F69D4E257A}|Transparent Form\\Student Management System.csproj|solutionrelative:transparent form\\courseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD5FFA51-27EF-4B14-9309-C4F69D4E257A}|Transparent Form\\Student Management System.csproj|C:\\Users\\LENOVO\\Downloads\\Compressed\\Tutoring Management System-2024\\Tutoring Management System- 2024\\transparent form\\courseclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD5FFA51-27EF-4B14-9309-C4F69D4E257A}|Transparent Form\\Student Management System.csproj|solutionrelative:transparent form\\courseclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD5FFA51-27EF-4B14-9309-C4F69D4E257A}|Transparent Form\\Student Management System.csproj|C:\\Users\\LENOVO\\Downloads\\Compressed\\Tutoring Management System-2024\\Tutoring Management System- 2024\\transparent form\\courseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD5FFA51-27EF-4B14-9309-C4F69D4E257A}|Transparent Form\\Student Management System.csproj|solutionrelative:transparent form\\courseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD5FFA51-27EF-4B14-9309-C4F69D4E257A}|Transparent Form\\Student Management System.csproj|C:\\Users\\LENOVO\\Downloads\\Compressed\\Tutoring Management System-2024\\Tutoring Management System- 2024\\transparent form\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD5FFA51-27EF-4B14-9309-C4F69D4E257A}|Transparent Form\\Student Management System.csproj|solutionrelative:transparent form\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD5FFA51-27EF-4B14-9309-C4F69D4E257A}|Transparent Form\\Student Management System.csproj|C:\\Users\\LENOVO\\Downloads\\Compressed\\Tutoring Management System-2024\\Tutoring Management System- 2024\\transparent form\\splashform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD5FFA51-27EF-4B14-9309-C4F69D4E257A}|Transparent Form\\Student Management System.csproj|solutionrelative:transparent form\\splashform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD5FFA51-27EF-4B14-9309-C4F69D4E257A}|Transparent Form\\Student Management System.csproj|C:\\Users\\LENOVO\\Downloads\\Compressed\\Tutoring Management System-2024\\Tutoring Management System- 2024\\transparent form\\dbconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD5FFA51-27EF-4B14-9309-C4F69D4E257A}|Transparent Form\\Student Management System.csproj|solutionrelative:transparent form\\dbconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Student Management System||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 219,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\Compressed\\Tutoring Management System-2024\\Tutoring Management System- 2024\\Transparent Form\\LoginForm.cs",
+              "RelativeDocumentMoniker": "Transparent Form\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\Compressed\\Tutoring Management System-2024\\Tutoring Management System- 2024\\Transparent Form\\LoginForm.cs",
+              "RelativeToolTip": "Transparent Form\\LoginForm.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAawFsAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T21:18:12.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ScoreForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\Compressed\\Tutoring Management System-2024\\Tutoring Management System- 2024\\Transparent Form\\ScoreForm.cs",
+              "RelativeDocumentMoniker": "Transparent Form\\ScoreForm.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\Compressed\\Student Management System-20240508T185529Z-001\\Student Management System\\Transparent Form\\ScoreForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\Student Management System-20240508T185529Z-001\\Student Management System\\Transparent Form\\ScoreForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T09:30:30.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegisterForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\Compressed\\Tutoring Management System-2024\\Tutoring Management System- 2024\\Transparent Form\\RegisterForm.cs",
+              "RelativeDocumentMoniker": "Transparent Form\\RegisterForm.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\Compressed\\Student Management System-20240508T185529Z-001\\Student Management System\\Transparent Form\\RegisterForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\Student Management System-20240508T185529Z-001\\Student Management System\\Transparent Form\\RegisterForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T21:11:28.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SplashForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\Compressed\\Tutoring Management System-2024\\Tutoring Management System- 2024\\Transparent Form\\SplashForm.cs",
+              "RelativeDocumentMoniker": "Transparent Form\\SplashForm.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\Compressed\\Student Management System-20240508T185529Z-001\\Student Management System\\Transparent Form\\SplashForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\Student Management System-20240508T185529Z-001\\Student Management System\\Transparent Form\\SplashForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T19:15:03.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\Compressed\\Tutoring Management System-2024\\Tutoring Management System- 2024\\Transparent Form\\MainForm.cs",
+              "RelativeDocumentMoniker": "Transparent Form\\MainForm.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\Compressed\\Tutoring Management System-2024\\Tutoring Management System- 2024\\Transparent Form\\MainForm.cs [Design]",
+              "RelativeToolTip": "Transparent Form\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T19:22:32.708Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\Compressed\\Tutoring Management System-2024\\Tutoring Management System- 2024\\Transparent Form\\LoginForm.cs",
+              "RelativeDocumentMoniker": "Transparent Form\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\Compressed\\Student Management System-20240508T185529Z-001\\Student Management System\\Transparent Form\\LoginForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\Student Management System-20240508T185529Z-001\\Student Management System\\Transparent Form\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T09:26:26.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ManageStudentForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\Compressed\\Tutoring Management System-2024\\Tutoring Management System- 2024\\Transparent Form\\ManageStudentForm.cs",
+              "RelativeDocumentMoniker": "Transparent Form\\ManageStudentForm.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\Compressed\\Student Management System-20240508T185529Z-001\\Student Management System\\Transparent Form\\ManageStudentForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\Student Management System-20240508T185529Z-001\\Student Management System\\Transparent Form\\ManageStudentForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T21:05:21.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PrintCourseForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\Compressed\\Tutoring Management System-2024\\Tutoring Management System- 2024\\Transparent Form\\PrintCourseForm.cs",
+              "RelativeDocumentMoniker": "Transparent Form\\PrintCourseForm.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\Compressed\\Student Management System-20240508T185529Z-001\\Student Management System\\Transparent Form\\PrintCourseForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\Student Management System-20240508T185529Z-001\\Student Management System\\Transparent Form\\PrintCourseForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T21:06:10.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PrintScoreForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\Compressed\\Tutoring Management System-2024\\Tutoring Management System- 2024\\Transparent Form\\PrintScoreForm.cs",
+              "RelativeDocumentMoniker": "Transparent Form\\PrintScoreForm.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\Compressed\\Student Management System-20240508T185529Z-001\\Student Management System\\Transparent Form\\PrintScoreForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\Student Management System-20240508T185529Z-001\\Student Management System\\Transparent Form\\PrintScoreForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T21:08:16.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PrintStudent.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\Compressed\\Tutoring Management System-2024\\Tutoring Management System- 2024\\Transparent Form\\PrintStudent.cs",
+              "RelativeDocumentMoniker": "Transparent Form\\PrintStudent.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\Compressed\\Student Management System-20240508T185529Z-001\\Student Management System\\Transparent Form\\PrintStudent.cs [Design]",
+              "RelativeToolTip": "..\\..\\Student Management System-20240508T185529Z-001\\Student Management System\\Transparent Form\\PrintStudent.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T21:09:36.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RegisterForm.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\Compressed\\Tutoring Management System-2024\\Tutoring Management System- 2024\\Transparent Form\\RegisterForm.cs",
+              "RelativeDocumentMoniker": "Transparent Form\\RegisterForm.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\Compressed\\Tutoring Management System-2024\\Tutoring Management System- 2024\\Transparent Form\\RegisterForm.cs",
+              "RelativeToolTip": "Transparent Form\\RegisterForm.cs",
+              "ViewState": "AQIAAHoAAAAAAAAAAAAlwIkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T21:11:58.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PrintStudent.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\Compressed\\Tutoring Management System-2024\\Tutoring Management System- 2024\\Transparent Form\\PrintStudent.cs",
+              "RelativeDocumentMoniker": "Transparent Form\\PrintStudent.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\Compressed\\Tutoring Management System-2024\\Tutoring Management System- 2024\\Transparent Form\\PrintStudent.cs",
+              "RelativeToolTip": "Transparent Form\\PrintStudent.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAlwE0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T21:10:45.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ManageScoreForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\Compressed\\Tutoring Management System-2024\\Tutoring Management System- 2024\\Transparent Form\\ManageScoreForm.cs",
+              "RelativeDocumentMoniker": "Transparent Form\\ManageScoreForm.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\Compressed\\Student Management System-20240508T185529Z-001\\Student Management System\\Transparent Form\\ManageScoreForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\Student Management System-20240508T185529Z-001\\Student Management System\\Transparent Form\\ManageScoreForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T21:04:25.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ManageCourseForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\Compressed\\Tutoring Management System-2024\\Tutoring Management System- 2024\\Transparent Form\\ManageCourseForm.cs",
+              "RelativeDocumentMoniker": "Transparent Form\\ManageCourseForm.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\Compressed\\Student Management System-20240508T185529Z-001\\Student Management System\\Transparent Form\\ManageCourseForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\Student Management System-20240508T185529Z-001\\Student Management System\\Transparent Form\\ManageCourseForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T20:56:06.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CourseClass.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\Compressed\\Tutoring Management System-2024\\Tutoring Management System- 2024\\Transparent Form\\CourseClass.cs",
+              "RelativeDocumentMoniker": "Transparent Form\\CourseClass.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\Compressed\\Tutoring Management System-2024\\Tutoring Management System- 2024\\Transparent Form\\CourseClass.cs",
+              "RelativeToolTip": "Transparent Form\\CourseClass.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T20:49:59.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CourseForm.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\Compressed\\Tutoring Management System-2024\\Tutoring Management System- 2024\\Transparent Form\\CourseForm.cs",
+              "RelativeDocumentMoniker": "Transparent Form\\CourseForm.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\Compressed\\Tutoring Management System-2024\\Tutoring Management System- 2024\\Transparent Form\\CourseForm.cs",
+              "RelativeToolTip": "Transparent Form\\CourseForm.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAkwFMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T20:09:40.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CourseForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\Compressed\\Tutoring Management System-2024\\Tutoring Management System- 2024\\Transparent Form\\CourseForm.cs",
+              "RelativeDocumentMoniker": "Transparent Form\\CourseForm.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\Compressed\\Student Management System-20240508T185529Z-001\\Student Management System\\Transparent Form\\CourseForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\Student Management System-20240508T185529Z-001\\Student Management System\\Transparent Form\\CourseForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T19:51:19.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\Compressed\\Tutoring Management System-2024\\Tutoring Management System- 2024\\Transparent Form\\MainForm.cs",
+              "RelativeDocumentMoniker": "Transparent Form\\MainForm.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\Compressed\\Tutoring Management System-2024\\Tutoring Management System- 2024\\Transparent Form\\MainForm.cs",
+              "RelativeToolTip": "Transparent Form\\MainForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAPUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T19:34:17.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SplashForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\Compressed\\Tutoring Management System-2024\\Tutoring Management System- 2024\\Transparent Form\\SplashForm.Designer.cs",
+              "RelativeDocumentMoniker": "Transparent Form\\SplashForm.Designer.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\Compressed\\Tutoring Management System-2024\\Tutoring Management System- 2024\\Transparent Form\\SplashForm.Designer.cs",
+              "RelativeToolTip": "Transparent Form\\SplashForm.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T19:14:20.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DBconnect.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\Compressed\\Tutoring Management System-2024\\Tutoring Management System- 2024\\Transparent Form\\DBconnect.cs",
+              "RelativeDocumentMoniker": "Transparent Form\\DBconnect.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\Compressed\\Tutoring Management System-2024\\Tutoring Management System- 2024\\Transparent Form\\DBconnect.cs",
+              "RelativeToolTip": "Transparent Form\\DBconnect.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T09:21:36.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Student Management System",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\Compressed\\Tutoring Management System-2024\\Tutoring Management System- 2024\\Transparent Form\\Student Management System.csproj",
+              "RelativeDocumentMoniker": "Transparent Form\\Student Management System.csproj",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\Compressed\\Tutoring Management System-2024\\Tutoring Management System- 2024\\Transparent Form\\Student Management System.csproj",
+              "RelativeToolTip": "Transparent Form\\Student Management System.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-06T09:29:04.677Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

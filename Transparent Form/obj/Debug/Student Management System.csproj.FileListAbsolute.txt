@@ -1,0 +1,109 @@
+C:\Users\acer\source\repos\Transparent Form\Transparent Form\obj\Debug\Student Management System.csprojAssemblyReference.cache
+C:\Users\acer\source\repos\Transparent Form\Transparent Form\obj\Debug\Transparent_Form.MainForm.resources
+C:\Users\acer\source\repos\Transparent Form\Transparent Form\obj\Debug\Transparent_Form.Properties.Resources.resources
+C:\Users\acer\source\repos\Transparent Form\Transparent Form\obj\Debug\Student Management System.csproj.GenerateResource.cache
+C:\Users\acer\source\repos\Transparent Form\Transparent Form\obj\Debug\Student Management System.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\Transparent Form\Transparent Form\obj\Debug\Transparent Form.exe
+C:\Users\acer\source\repos\Transparent Form\Transparent Form\obj\Debug\Transparent Form.pdb
+C:\Users\acer\source\repos\Transparent Form\Transparent Form\bin\Debug\Transparent Form.exe.config
+C:\Users\acer\source\repos\Transparent Form\Transparent Form\bin\Debug\Transparent Form.exe
+C:\Users\acer\source\repos\Transparent Form\Transparent Form\bin\Debug\Transparent Form.pdb
+C:\Users\acer\source\repos\Transparent Form\Transparent Form\bin\Debug\Guna.UI2.dll
+C:\Users\acer\source\repos\Transparent Form\Transparent Form\bin\Debug\MySql.Data.dll
+C:\Users\acer\source\repos\Transparent Form\Transparent Form\bin\Debug\Google.Protobuf.dll
+C:\Users\acer\source\repos\Transparent Form\Transparent Form\bin\Debug\Zstandard.Net.dll
+C:\Users\acer\source\repos\Transparent Form\Transparent Form\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\acer\source\repos\Transparent Form\Transparent Form\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\acer\source\repos\Transparent Form\Transparent Form\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\acer\source\repos\Transparent Form\Transparent Form\bin\Debug\Renci.SshNet.dll
+C:\Users\acer\source\repos\Transparent Form\Transparent Form\bin\Debug\System.Buffers.dll
+C:\Users\acer\source\repos\Transparent Form\Transparent Form\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\acer\source\repos\Transparent Form\Transparent Form\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\acer\source\repos\Transparent Form\Transparent Form\bin\Debug\System.Memory.dll
+C:\Users\acer\source\repos\Transparent Form\Transparent Form\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\acer\source\repos\Transparent Form\Transparent Form\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\acer\source\repos\Transparent Form\Transparent Form\bin\Debug\MySql.Data.xml
+C:\Users\acer\source\repos\Transparent Form\Transparent Form\obj\Debug\Transparent_Form.RegisterForm.resources
+C:\Users\acer\source\repos\Transparent Form\Transparent Form\obj\Debug\Student Management System.csproj.CopyComplete
+C:\Users\acer\source\repos\Transparent Form\Transparent Form\obj\Debug\Transparent_Form.ManageStudentForm.resources
+C:\Users\acer\source\repos\Transparent Form\Transparent Form\obj\Debug\Transparent_Form.PrintStudent.resources
+C:\Users\acer\source\repos\Transparent Form\Transparent Form\obj\Debug\Transparent_Form.CourseForm.resources
+C:\Users\acer\source\repos\Transparent Form\Transparent Form\obj\Debug\Transparent_Form.ManageCourseForm.resources
+C:\Users\acer\source\repos\Transparent Form\Transparent Form\obj\Debug\Transparent_Form.PrintCourseForm.resources
+C:\Users\acer\source\repos\Transparent Form\Transparent Form\obj\Debug\Transparent_Form.ScoreForm.resources
+C:\Users\acer\source\repos\Transparent Form\Transparent Form\obj\Debug\Transparent_Form.ManageScoreForm.resources
+C:\Users\acer\source\repos\Transparent Form\Transparent Form\obj\Debug\Transparent_Form.PrintScoreForm.resources
+C:\Users\acer\source\repos\Transparent Form\Transparent Form\obj\Debug\Transparent_Form.LoginForm.resources
+C:\Users\acer\source\repos\Transparent Form\Transparent Form\obj\Debug\Transparent_Form.SplashForm.resources
+F:\Student Management System\Transparent Form\bin\Debug\Transparent Form.exe.config
+F:\Student Management System\Transparent Form\bin\Debug\Transparent Form.exe
+F:\Student Management System\Transparent Form\bin\Debug\Transparent Form.pdb
+F:\Student Management System\Transparent Form\bin\Debug\Google.Protobuf.dll
+F:\Student Management System\Transparent Form\bin\Debug\Zstandard.Net.dll
+F:\Student Management System\Transparent Form\bin\Debug\K4os.Compression.LZ4.Streams.dll
+F:\Student Management System\Transparent Form\bin\Debug\BouncyCastle.Crypto.dll
+F:\Student Management System\Transparent Form\bin\Debug\Ubiety.Dns.Core.dll
+F:\Student Management System\Transparent Form\bin\Debug\Renci.SshNet.dll
+F:\Student Management System\Transparent Form\bin\Debug\System.Buffers.dll
+F:\Student Management System\Transparent Form\bin\Debug\K4os.Compression.LZ4.dll
+F:\Student Management System\Transparent Form\bin\Debug\K4os.Hash.xxHash.dll
+F:\Student Management System\Transparent Form\bin\Debug\System.Memory.dll
+F:\Student Management System\Transparent Form\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\Student Management System\Transparent Form\bin\Debug\System.Numerics.Vectors.dll
+F:\Student Management System\Transparent Form\bin\Debug\MySql.Data.xml
+F:\Student Management System\Transparent Form\obj\Debug\Student Management System.csproj.AssemblyReference.cache
+F:\Student Management System\Transparent Form\obj\Debug\Transparent_Form.CourseForm.resources
+F:\Student Management System\Transparent Form\obj\Debug\Transparent_Form.LoginForm.resources
+F:\Student Management System\Transparent Form\obj\Debug\Transparent_Form.MainForm.resources
+F:\Student Management System\Transparent Form\obj\Debug\Transparent_Form.ManageCourseForm.resources
+F:\Student Management System\Transparent Form\obj\Debug\Transparent_Form.ManageScoreForm.resources
+F:\Student Management System\Transparent Form\obj\Debug\Transparent_Form.ManageStudentForm.resources
+F:\Student Management System\Transparent Form\obj\Debug\Transparent_Form.PrintCourseForm.resources
+F:\Student Management System\Transparent Form\obj\Debug\Transparent_Form.PrintScoreForm.resources
+F:\Student Management System\Transparent Form\obj\Debug\Transparent_Form.PrintStudent.resources
+F:\Student Management System\Transparent Form\obj\Debug\Transparent_Form.Properties.Resources.resources
+F:\Student Management System\Transparent Form\obj\Debug\Transparent_Form.RegisterForm.resources
+F:\Student Management System\Transparent Form\obj\Debug\Transparent_Form.ScoreForm.resources
+F:\Student Management System\Transparent Form\obj\Debug\Transparent_Form.SplashForm.resources
+F:\Student Management System\Transparent Form\obj\Debug\Student Management System.csproj.GenerateResource.cache
+F:\Student Management System\Transparent Form\obj\Debug\Student Management System.csproj.CoreCompileInputs.cache
+F:\Student Management System\Transparent Form\obj\Debug\Transparent Form.exe
+F:\Student Management System\Transparent Form\obj\Debug\Transparent Form.pdb
+F:\Student Management System\Transparent Form\obj\Debug\Student .B1F29E5F.Up2Date
+F:\Student Management System\Transparent Form\bin\Debug\Guna.UI2.dll
+C:\Users\LENOVO\Downloads\Compressed\Student Management System-20240508T185529Z-001\Student Management System\Transparent Form\bin\Debug\Transparent Form.exe.config
+C:\Users\LENOVO\Downloads\Compressed\Student Management System-20240508T185529Z-001\Student Management System\Transparent Form\bin\Debug\Transparent Form.exe
+C:\Users\LENOVO\Downloads\Compressed\Student Management System-20240508T185529Z-001\Student Management System\Transparent Form\bin\Debug\Transparent Form.pdb
+C:\Users\LENOVO\Downloads\Compressed\Student Management System-20240508T185529Z-001\Student Management System\Transparent Form\bin\Debug\Guna.UI2.dll
+C:\Users\LENOVO\Downloads\Compressed\Student Management System-20240508T185529Z-001\Student Management System\Transparent Form\bin\Debug\Google.Protobuf.dll
+C:\Users\LENOVO\Downloads\Compressed\Student Management System-20240508T185529Z-001\Student Management System\Transparent Form\bin\Debug\Zstandard.Net.dll
+C:\Users\LENOVO\Downloads\Compressed\Student Management System-20240508T185529Z-001\Student Management System\Transparent Form\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\LENOVO\Downloads\Compressed\Student Management System-20240508T185529Z-001\Student Management System\Transparent Form\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\LENOVO\Downloads\Compressed\Student Management System-20240508T185529Z-001\Student Management System\Transparent Form\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\LENOVO\Downloads\Compressed\Student Management System-20240508T185529Z-001\Student Management System\Transparent Form\bin\Debug\Renci.SshNet.dll
+C:\Users\LENOVO\Downloads\Compressed\Student Management System-20240508T185529Z-001\Student Management System\Transparent Form\bin\Debug\System.Buffers.dll
+C:\Users\LENOVO\Downloads\Compressed\Student Management System-20240508T185529Z-001\Student Management System\Transparent Form\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\LENOVO\Downloads\Compressed\Student Management System-20240508T185529Z-001\Student Management System\Transparent Form\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\LENOVO\Downloads\Compressed\Student Management System-20240508T185529Z-001\Student Management System\Transparent Form\bin\Debug\System.Memory.dll
+C:\Users\LENOVO\Downloads\Compressed\Student Management System-20240508T185529Z-001\Student Management System\Transparent Form\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\LENOVO\Downloads\Compressed\Student Management System-20240508T185529Z-001\Student Management System\Transparent Form\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\LENOVO\Downloads\Compressed\Student Management System-20240508T185529Z-001\Student Management System\Transparent Form\bin\Debug\MySql.Data.xml
+C:\Users\LENOVO\Downloads\Compressed\Student Management System-20240508T185529Z-001\Student Management System\Transparent Form\obj\Debug\Student Management System.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Downloads\Compressed\Student Management System-20240508T185529Z-001\Student Management System\Transparent Form\obj\Debug\Transparent_Form.CourseForm.resources
+C:\Users\LENOVO\Downloads\Compressed\Student Management System-20240508T185529Z-001\Student Management System\Transparent Form\obj\Debug\Transparent_Form.LoginForm.resources
+C:\Users\LENOVO\Downloads\Compressed\Student Management System-20240508T185529Z-001\Student Management System\Transparent Form\obj\Debug\Transparent_Form.MainForm.resources
+C:\Users\LENOVO\Downloads\Compressed\Student Management System-20240508T185529Z-001\Student Management System\Transparent Form\obj\Debug\Transparent_Form.ManageCourseForm.resources
+C:\Users\LENOVO\Downloads\Compressed\Student Management System-20240508T185529Z-001\Student Management System\Transparent Form\obj\Debug\Transparent_Form.ManageScoreForm.resources
+C:\Users\LENOVO\Downloads\Compressed\Student Management System-20240508T185529Z-001\Student Management System\Transparent Form\obj\Debug\Transparent_Form.ManageStudentForm.resources
+C:\Users\LENOVO\Downloads\Compressed\Student Management System-20240508T185529Z-001\Student Management System\Transparent Form\obj\Debug\Transparent_Form.PrintCourseForm.resources
+C:\Users\LENOVO\Downloads\Compressed\Student Management System-20240508T185529Z-001\Student Management System\Transparent Form\obj\Debug\Transparent_Form.PrintScoreForm.resources
+C:\Users\LENOVO\Downloads\Compressed\Student Management System-20240508T185529Z-001\Student Management System\Transparent Form\obj\Debug\Transparent_Form.PrintStudent.resources
+C:\Users\LENOVO\Downloads\Compressed\Student Management System-20240508T185529Z-001\Student Management System\Transparent Form\obj\Debug\Transparent_Form.Properties.Resources.resources
+C:\Users\LENOVO\Downloads\Compressed\Student Management System-20240508T185529Z-001\Student Management System\Transparent Form\obj\Debug\Transparent_Form.RegisterForm.resources
+C:\Users\LENOVO\Downloads\Compressed\Student Management System-20240508T185529Z-001\Student Management System\Transparent Form\obj\Debug\Transparent_Form.ScoreForm.resources
+C:\Users\LENOVO\Downloads\Compressed\Student Management System-20240508T185529Z-001\Student Management System\Transparent Form\obj\Debug\Transparent_Form.SplashForm.resources
+C:\Users\LENOVO\Downloads\Compressed\Student Management System-20240508T185529Z-001\Student Management System\Transparent Form\obj\Debug\Student Management System.csproj.GenerateResource.cache
+C:\Users\LENOVO\Downloads\Compressed\Student Management System-20240508T185529Z-001\Student Management System\Transparent Form\obj\Debug\Student Management System.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\Compressed\Student Management System-20240508T185529Z-001\Student Management System\Transparent Form\obj\Debug\Student .B1F29E5F.Up2Date
+C:\Users\LENOVO\Downloads\Compressed\Student Management System-20240508T185529Z-001\Student Management System\Transparent Form\obj\Debug\Transparent Form.exe
+C:\Users\LENOVO\Downloads\Compressed\Student Management System-20240508T185529Z-001\Student Management System\Transparent Form\obj\Debug\Transparent Form.pdb
